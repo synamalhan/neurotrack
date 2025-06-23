@@ -29,7 +29,7 @@
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/NeuroTrack.git
+git clone https://github.com/synamalhan/neurotrack.git
 cd NeuroTrack
 ```
 
