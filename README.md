@@ -94,13 +94,6 @@ NeuroTrack/
 
 ---
 
-## 👩‍💻 Author
-
-**Syna Malhan**  
-[GitHub](https://github.com/synamalhan) • [Portfolio](https://yourportfolio.com) • [LinkedIn](https://linkedin.com/in/synamalhan)
-
----
-
 ## 📄 License
 
 MIT License – free to use and modify. Please credit the original author.
